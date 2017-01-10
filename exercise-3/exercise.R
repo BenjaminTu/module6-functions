@@ -41,3 +41,4 @@ round.2 <- round(fav.2, 1)
 sum.round <- sum(round.1, round.2)
 
 # Which is bigger, `round.sum` or `sum.round`? (You can use the `max()` function!)
+max(round.sum, sum.round)
